@@ -8,3 +8,4 @@ I initially started with random objects moving in any random position from the c
 <p align='center'>
 <img src='https://raw.githubusercontent.com/makiisthenes/FlockingAlgorithm/master/ezgif.com-crop.gif'>
 </p>
+<h4> Wall Collision Detection </h4>
