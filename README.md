@@ -1,4 +1,4 @@
-<h1>FlockingAlgorithm Attempt [Discontinued]</h1>
+<h1>FlockingAlgorithm Attempt</h1>
 This is my own attempt at the flocking algorithm using class objects and Pygame.
 <hr>
 <h3>About</h3>
