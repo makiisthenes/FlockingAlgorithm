@@ -23,3 +23,9 @@ Here I used the math modules asin, acos, sin and cos, in order to find out the h
 <p align='center'>
 <img src='https://raw.githubusercontent.com/makiisthenes/FlockingAlgorithm/master/video4.gif' width=40%>
 </p>
+<h4>Laws of the Algorithm</h4>
+There are 3 main concepts that need to be implemented in order to make the particles move in a 'flocking' manner, the three concepts are as follows:
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
