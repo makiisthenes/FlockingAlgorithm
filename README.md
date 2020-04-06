@@ -28,4 +28,4 @@ There are 3 main concepts that need to be implemented in order to make the parti
 <ul>
   <li>Cohesion</li>
   <li>Alignment</li>
-  <li>Alignment</li>
+  <li>Separation</li>
