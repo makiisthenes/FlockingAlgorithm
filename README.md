@@ -48,4 +48,5 @@ There are of course many more challenging concepts that do pose a challenge for 
     <li> Use of SUVAT Equations</li>
 <hr>
 <h3>Main Problems</h3>
-  <h4>Direction and Velocity Sync Error</h4>
+  <h4> --> Direction and Velocity Sync Error</h4>
+  <h4> --> Postion/ Velocity Float Rejection</h4>
