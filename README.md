@@ -16,5 +16,6 @@ I then implemented a wall detection, by telling the program if particle past the
 <h4> Randomness Starting Point</h4>
 Here I implemented a random start point using random.choice() to make it more realistic for random motion, they are in different regions surrounding the center in different angles.
 <p align='center'>
-<img src='#'>
+<img src='https://raw.githubusercontent.com/makiisthenes/FlockingAlgorithm/master/video3.gif'>
 </p>
+<h4>Applying Particle Heading</h4>
