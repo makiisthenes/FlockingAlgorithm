@@ -29,7 +29,7 @@ There are 3 main concepts that need to be implemented in order to make the parti
   <li><strong>Cohesion</strong></li>
   <i>This concept concludes that particles in a specific range will tend to a mean distance point, where all the particles will want to bunch on, this concept was tested by making each particles registering thier postion on a database per cycle and finding all particles are in thier certain range. When all particles in thier range are found, a mean location is found and this is where we implement a driving force to that location (not implemented). However I did code a debugging version to show the lines of force to the cohesion point, shown in the gif below as red lines between the particles.</i>
   <p align='center'>
-    <img src='#' width=30%>
+    <img src='https://raw.githubusercontent.com/makiisthenes/FlockingAlgorithm/master/cohesion.gif' width=40%>
   </p>
   <li>Alignment</li>
   <li>Separation</li>
