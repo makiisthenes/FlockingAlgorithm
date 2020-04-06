@@ -33,7 +33,19 @@ There are 3 main concepts that need to be implemented in order to make the parti
   </p>
   <li><strong>Alignment</strong></li>
   <i>The concept here is that all particles in a certain area will follow the mean heading/ direction of the group. And so the particle will move towards that direction using a change of velocity. I did coded this, which printed the mean direction/heading the particle must turn to. The problem which I experienced is to do with the turning of these particles to the desired heading with respect to thier velocities, velocityx and velocityy and is mentioned in main problems.</i>
-  <li>Separation</li>
+  <li><strong>Separation</strong></li>
+  This just means that the particles have some sort of object detection and don't all munch up on one point, and seperate with thier respective 'personal space'. An object detection module was never coded, due to laziness... 
   <hr>
+<h3>Final Notice</h3> 
+There are of course many more challenging concepts that do pose a challenge for me, these include:
+  <ul>
+    <li> Particle Circle Radius</li>
+    <li> Particle Radius Restricted</li>
+    <li> Concept Implementation</li>
+    <li> Object Detection</li>
+    <li> Particle Object Avoidance</li>
+    <li> Particle Calculated Trajectory</li>
+    <li> Use of SUVAT Equations</li>
+<hr>
 <h3>Main Problems</h3>
   <h4>Direction and Velocity Sync Error</h4>
