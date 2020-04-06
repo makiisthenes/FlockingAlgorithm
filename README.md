@@ -1,4 +1,4 @@
-<h1>FlockingAlgorithm</h1>
+<h1>FlockingAlgorithm [Discontinued]~ New Physics Approach</h1>
 This is my own attempt at the flocking algorithm using class objects and Pygame.
 <hr>
 <h3>About</h3>
