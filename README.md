@@ -31,5 +31,10 @@ There are 3 main concepts that need to be implemented in order to make the parti
   <p align='center'>
     <img src='https://raw.githubusercontent.com/makiisthenes/FlockingAlgorithm/master/cohesion.gif' width=40%>
   </p>
-  <li>Alignment</li>
+  <li><strong>Alignment</strong></li>
+  <i>The concept here is that all particles in a certain area </i>
   <li>Separation</li>
+  <hr>
+<h3>Main Problems</h3>
+<hr>
+  <h4>Direction and Velocity Sync Error</h4>
