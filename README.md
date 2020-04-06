@@ -11,7 +11,7 @@ I initially started with random objects moving in any random position from the c
 <h4> Wall Collision Detection </h4>
 I then implemented a wall detection, by telling the program if particle past the window size flip the direction of velocity in opposite direction but with same magnitude. But a problem is that the particles seem to be moving in a systemicatic (non-random) way.
 <p align='center'>
-<img src='https://raw.githubusercontent.com/makiisthenes/FlockingAlgorithm/master/video2.gif'>
+<img src='https://raw.githubusercontent.com/makiisthenes/FlockingAlgorithm/master/video2.gif' width=40%>
 </p>
 <h4> Randomness Starting Point</h4>
 Here I implemented a random start point using random.choice() to make it more realistic for random motion, they are in different regions surrounding the center in different angles.
