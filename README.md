@@ -19,3 +19,7 @@ Here I implemented a random start point using random.choice() to make it more re
 <img src='https://raw.githubusercontent.com/makiisthenes/FlockingAlgorithm/master/video3.gif'>
 </p>
 <h4>Applying Particle Heading</h4>
+Here I used the math modules asin, acos, sin and cos, in order to find out the heading of an particilur particle, I also drew a green heading line on the particle indicating thier direction, the length of each particles green line also is directly proportional to the overall magnitude of speed it is going by a scale factor x3.
+<p align='center'>
+<img src='https://raw.githubusercontent.com/makiisthenes/FlockingAlgorithm/master/video4.gif'>
+</p>
