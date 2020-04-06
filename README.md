@@ -52,7 +52,6 @@ There are 3 main concepts that need to be implemented in order to make the parti
     The heading/direction was not linked to the velocity and had issues when it was synced.
   <h4> --> Postion/ Velocity Float Rejection</h4>
     Due to my choice of setting up position based on pixels on the screen, rather than another vector quantity, I was only limited to integers rather than floats which forced calculations in being rounded and overall inaccurately, this was the underlying problem in this project.<br>
-
-[Flocking Algorithm by Michael Peres]<br>
 <hr>
+[Flocking Algorithm by Michael Peres]<br>
 [END]
