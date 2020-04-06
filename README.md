@@ -32,7 +32,7 @@ There are 3 main concepts that need to be implemented in order to make the parti
     <img src='https://raw.githubusercontent.com/makiisthenes/FlockingAlgorithm/master/cohesion.gif' width=40%>
   </p>
   <li><strong>Alignment</strong></li>
-  <i>The concept here is that all particles in a certain area </i>
+  <i>The concept here is that all particles in a certain area will follow the mean heading/ direction of the group. And so the particle will move towards that direction using a change of velocity. I did coded this, which printed the mean direction/heading the particle must turn to. The problem which I experienced is to do with the turning of these particles to the desired heading with respect to thier velocities, velocityx and velocityy and is mentioned in main problems.</i>
   <li>Separation</li>
   <hr>
 <h3>Main Problems</h3>
