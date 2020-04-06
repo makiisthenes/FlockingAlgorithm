@@ -36,5 +36,4 @@ There are 3 main concepts that need to be implemented in order to make the parti
   <li>Separation</li>
   <hr>
 <h3>Main Problems</h3>
-<hr>
   <h4>Direction and Velocity Sync Error</h4>
