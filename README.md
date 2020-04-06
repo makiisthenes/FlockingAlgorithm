@@ -26,6 +26,10 @@ Here I used the math modules asin, acos, sin and cos, in order to find out the h
 <h4>Laws of the Algorithm</h4>
 There are 3 main concepts that need to be implemented in order to make the particles move in a 'flocking' manner, the three concepts are as follows:
 <ul>
-  <li>Cohesion</li>
+  <li><strong>Cohesion</strong></li>
+  This concept concludes that particles in a specific range will tend to a mean distance point, where all the particles will want to bunch on, this concept was tested by making each particles registering thier postion on a database per cycle and finding all particles are in thier certain range. When all particles in thier range are found, a mean location is found and this is where we implement a driving force to that location (not implemented). However I did code a debugging version to show the lines of force to the cohesion point, shown in the gif below as red lines between the particles.
+  <p align='center'>
+    <img src='#' width=40%>
+  </p>
   <li>Alignment</li>
   <li>Separation</li>
