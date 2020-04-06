@@ -37,7 +37,7 @@ There are 3 main concepts that need to be implemented in order to make the parti
   This just means that the particles have some sort of object detection and don't all munch up on one point, and seperate with thier respective 'personal space'. An object detection module was never coded, due to laziness... 
   <hr>
 <h3>Final Notice</h3> 
-There are of course many more challenging concepts that do pose a challenge for me, these include:
+There are of course many more challenging concepts that do pose a challenge for me in which I did attempt to approach in test.py file, these include:
   <ul>
     <li> Particle Circle Radius</li>
     <li> Particle Radius Restricted</li>
